@@ -1,0 +1,46 @@
+#heading{
+    color: whitesmoke;
+    text-align: center;
+}
+
+#listing{
+    font-family: verdana;
+    font-size: 20px;
+    color: whitesmoke;
+}
+
+#example{
+    margin: auto;
+}
+
+#work{
+    margin: auto;
+}
+
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+div {
+    width: 600px;
+    border: 5px solid #F97F54;
+    padding: 50px;
+    margin: auto;
+    background-color: black;
+    background-size: cover;
+  }
+body {
+    background: url(../images/coffee-background-top-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #cccccc;
+    color: whitesmoke;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+
+ol {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
